@@ -1,5 +1,8 @@
 DRA8x8 Radio Module Arduino Library
 ======
+
+**Incomplete**
+
 This is a small library which handles the configuration of the Dorji DRA8x8 radio modules (DRA808M, DRA818V, DRA818U). The datasheet for these modules is somewhat lacking in details, and some quirks were discovered during testing.
 
 To install, copy the DRA8x8 folder to your Arduino Libraries folder. You should then be able open Arduino and choose the "DRA818_Basic" example from the file mnu. 
